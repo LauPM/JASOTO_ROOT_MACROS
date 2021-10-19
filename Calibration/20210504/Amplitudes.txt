@@ -1,0 +1,11 @@
+ADC4_45.0V_Amplitude 17.7027
+ADC4_46.0V_Amplitude 24.8451
+ADC4_47.0V_Amplitude 31.4336
+ADC4_48.0V_Amplitude 38.0023
+ADC5_45.0V_Amplitude 18.1485
+ADC5_46.0V_Amplitude 25.7056
+ADC5_47.0V_Amplitude 32.2514
+ADC5_48.0V_Amplitude 38.9435
+ADC2_1100.0V_Amplitude 83.7492
+ADC2_1200.0V_Amplitude 173.849
+ADC2_1300.0V_Amplitude 339.706
