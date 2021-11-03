@@ -29,7 +29,7 @@ namespace ana
     double Sampling=4e-9;
     int ADCDynamicRange;
 
-    std::vector<string> PMT_SN={"SiPM1","SiPM2","PMT"};
+    std::vector<string> PMT_SN={"SiPM1","SiPM2","PMT","Supercells"};
     std::vector<double> PMT_Voltages;
     std::vector<double> PMT_Gains;
     std::vector<double> PMT_SPEAmp;

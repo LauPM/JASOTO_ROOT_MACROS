@@ -1,0 +1,1430 @@
+[
+  {
+    "dia": 20,
+    "Run": 29,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 20,
+    "Run": 30,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 20,
+    "Run": 31,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 20,
+    "Run": 32,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 20,
+    "Run": 33,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 20,
+    "Run": 34,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 20,
+    "Run": 35,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 20,
+    "Run": 36,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 20,
+    "Run": 37,
+    "tipo": "coincidencia",
+    "threshold": 22,
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 20,
+    "Run": 38,
+    "tipo": "coincidencia",
+    "threshold": 22,
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 20,
+    "Run": 39,
+    "tipo": "coincidencia",
+    "threshold": 22,
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 20,
+    "Run": 40,
+    "tipo": "coincidencia",
+    "threshold": 300,
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 20,
+    "Run": 41,
+    "tipo": "coincidencia",
+    "threshold": 300,
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 20,
+    "Run": 42,
+    "tipo": "coincidencia",
+    "threshold": 300,
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 20,
+    "Run": 43,
+    "tipo": "coincidencia",
+    "threshold": 1200,
+    "Régimen": "Coincidencia SiPM (1200)"
+  },
+  {
+    "dia": 20,
+    "Run": 44,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (360nm)"
+  },
+  {
+    "dia": 20,
+    "Run": 45,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (360nm)"
+  },
+  {
+    "dia": 20,
+    "Run": 46,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (360nm) ATENUADOR 1/3"
+  },
+  {
+    "dia": 20,
+    "Run": 47,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (420nm)"
+  },
+  {
+    "dia": 20,
+    "Run": 48,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (420nm)"
+  },
+  {
+    "dia": 20,
+    "Run": 49,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (420nm)"
+  },
+  {
+    "dia": 20,
+    "Run": 50,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (270nm)"
+  },
+  {
+    "dia": 20,
+    "Run": 51,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (270nm)"
+  },
+  {
+    "dia": 20,
+    "Run": 52,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (270nm)"
+  },
+  {
+    "dia": 20,
+    "Run": 53,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (1200) 1/3"
+  },
+  {
+    "dia": 21,
+    "Run": 54,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 21,
+    "Run": 55,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 21,
+    "Run": 56,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 21,
+    "Run": 57,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 21,
+    "Run": 58,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 21,
+    "Run": 59,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 21,
+    "Run": 60,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 21,
+    "Run": 61,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 21,
+    "Run": 62,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 21,
+    "Run": 63,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 21,
+    "Run": 64,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 21,
+    "Run": 65,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 21,
+    "Run": 66,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 21,
+    "Run": 67,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 21,
+    "Run": 68,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300) ATENUADOR"
+  },
+  {
+    "dia": 21,
+    "Run": 69,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (1200)"
+  },
+  {
+    "dia": 22,
+    "Run": 70,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 22,
+    "Run": 71,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 22,
+    "Run": 72,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 22,
+    "Run": 73,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 22,
+    "Run": 74,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 22,
+    "Run": 75,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 22,
+    "Run": 76,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 22,
+    "Run": 77,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 22,
+    "Run": 78,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 22,
+    "Run": 79,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 22,
+    "Run": 80,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 22,
+    "Run": 81,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 22,
+    "Run": 82,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 22,
+    "Run": 83,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 22,
+    "Run": 84,
+    "tipo": "otro",
+    "threshold": "",
+    "Régimen": "Calibracion SC ATENUEADOR (Factor)"
+  },
+  {
+    "dia": 22,
+    "Run": 85,
+    "tipo": "coincidencia",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (1200)"
+  },
+  {
+    "dia": 23,
+    "Run": 86,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 23,
+    "Run": 87,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 23,
+    "Run": 88,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 23,
+    "Run": 89,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 23,
+    "Run": 90,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 23,
+    "Run": 91,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 23,
+    "Run": 92,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 23,
+    "Run": 93,
+    "tipo": "calib",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 23,
+    "Run": 94,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 23,
+    "Run": 95,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 23,
+    "Run": 96,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 23,
+    "Run": 97,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 23,
+    "Run": 98,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 23,
+    "Run": 99,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 23,
+    "Run": 100,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (1200)"
+  },
+  {
+    "dia": 24,
+    "Run": 101,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 24,
+    "Run": 102,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 24,
+    "Run": 103,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 24,
+    "Run": 104,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 24,
+    "Run": 105,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 24,
+    "Run": 106,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 24,
+    "Run": 107,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 24,
+    "Run": 108,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 24,
+    "Run": 109,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 24,
+    "Run": 110,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 24,
+    "Run": 111,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 24,
+    "Run": 112,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 24,
+    "Run": 113,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 24,
+    "Run": 114,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 24,
+    "Run": 115,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (1200)"
+  },
+  {
+    "dia": 25,
+    "Run": 116,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 25,
+    "Run": 117,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 25,
+    "Run": 118,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 25,
+    "Run": 119,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 25,
+    "Run": 120,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 25,
+    "Run": 121,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 25,
+    "Run": 122,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 25,
+    "Run": 123,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 25,
+    "Run": 124,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 25,
+    "Run": 125,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 25,
+    "Run": 126,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 25,
+    "Run": 127,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 25,
+    "Run": 128,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 25,
+    "Run": 129,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 25,
+    "Run": 130,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (1200)"
+  },
+  {
+    "dia": 26,
+    "Run": 131,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 26,
+    "Run": 132,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 26,
+    "Run": 133,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 26,
+    "Run": 134,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 26,
+    "Run": 135,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 26,
+    "Run": 136,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 26,
+    "Run": 137,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 26,
+    "Run": 138,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 26,
+    "Run": 139,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 26,
+    "Run": 140,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 26,
+    "Run": 141,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 26,
+    "Run": 142,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 26,
+    "Run": 143,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 26,
+    "Run": 144,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 26,
+    "Run": 145,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (1200)"
+  },
+  {
+    "dia": 27,
+    "Run": 146,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 27,
+    "Run": 147,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 27,
+    "Run": 148,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 27,
+    "Run": 149,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 27,
+    "Run": 150,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 27,
+    "Run": 151,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 27,
+    "Run": 152,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 27,
+    "Run": 153,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 27,
+    "Run": 154,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 27,
+    "Run": 155,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 27,
+    "Run": 156,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 27,
+    "Run": 157,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 27,
+    "Run": 158,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 27,
+    "Run": 159,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 27,
+    "Run": 160,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SiPM1 (22)"
+  },
+  {
+    "dia": 27,
+    "Run": 161,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SiPM2 (22)"
+  },
+  {
+    "dia": 27,
+    "Run": 162,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SC (25)"
+  },
+  {
+    "dia": 27,
+    "Run": 163,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger PMT (100)"
+  },
+  {
+    "dia": 27,
+    "Run": 164,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SC (25)"
+  },
+  {
+    "dia": 27,
+    "Run": 165,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SC (25)"
+  },
+  {
+    "dia": 27,
+    "Run": 166,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (405nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 167,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (405nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 168,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (405nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 169,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (420nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 170,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (420nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 171,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (420nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 172,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (270nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 173,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (270nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 174,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (270nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 175,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (360nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 176,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (360nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 177,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (360nm)"
+  },
+  {
+    "dia": 27,
+    "Run": 178,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (1200)"
+  },
+  {
+    "dia": 28,
+    "Run": 179,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 28,
+    "Run": 180,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 28,
+    "Run": 181,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 28,
+    "Run": 182,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 28,
+    "Run": 183,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 28,
+    "Run": 184,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 28,
+    "Run": 185,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 28,
+    "Run": 186,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 28,
+    "Run": 187,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 28,
+    "Run": 188,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 28,
+    "Run": 189,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 28,
+    "Run": 190,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 28,
+    "Run": 191,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 28,
+    "Run": 192,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 28,
+    "Run": 193,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SC (25)"
+  },
+  {
+    "dia": 28,
+    "Run": 194,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SC (25)"
+  },
+  {
+    "dia": 28,
+    "Run": 195,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SC (25)"
+  },
+  {
+    "dia": 28,
+    "Run": 196,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SiPM1 (22)"
+  },
+  {
+    "dia": 28,
+    "Run": 197,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SiPM2 (22)"
+  },
+  {
+    "dia": 28,
+    "Run": 198,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger PMT (100)"
+  },
+  {
+    "dia": 28,
+    "Run": 199,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (405nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 200,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (405nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 201,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (405nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 202,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (420nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 203,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (420nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 204,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Láser (420nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 205,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (360nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 206,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (360nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 207,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (360nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 208,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (270nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 209,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (270nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 210,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "LED (270nm)"
+  },
+  {
+    "dia": 28,
+    "Run": 211,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (1200)"
+  },
+  {
+    "dia": 29,
+    "Run": 212,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 29,
+    "Run": 213,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 29,
+    "Run": 214,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion SiPM"
+  },
+  {
+    "dia": 29,
+    "Run": 215,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 29,
+    "Run": 216,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 29,
+    "Run": 217,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 29,
+    "Run": 218,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 29,
+    "Run": 219,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Calibracion PMT"
+  },
+  {
+    "dia": 29,
+    "Run": 220,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 29,
+    "Run": 221,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 29,
+    "Run": 222,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (22)"
+  },
+  {
+    "dia": 29,
+    "Run": 223,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 29,
+    "Run": 224,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 29,
+    "Run": 225,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "Coincidencia SiPM (300)"
+  },
+  {
+    "dia": 29,
+    "Run": 226,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SC (25)"
+  },
+  {
+    "dia": 29,
+    "Run": 227,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SC (25)"
+  },
+  {
+    "dia": 29,
+    "Run": 228,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SC (25)"
+  },
+  {
+    "dia": 29,
+    "Run": 229,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SiPM1 (300)"
+  },
+  {
+    "dia": 29,
+    "Run": 230,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SiPM1 (22)"
+  },
+  {
+    "dia": 29,
+    "Run": 231,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger SiPM2 (22)"
+  },
+  {
+    "dia": 29,
+    "Run": 232,
+    "tipo": "",
+    "threshold": "",
+    "Régimen": "AutoTrigger PMT (100)"
+  }
+]
