@@ -11,6 +11,10 @@
 #include"TPolyMarker.h"
 #include"TGaxis.h"
 #include"TNtupleD.h"
+
+//para el mapa de runes de las tomas de medidas
+#include "lib/json_run_map.h"
+
 std::vector<double> GetVector(TH1D *hh)
 {
   std::vector<double> a;

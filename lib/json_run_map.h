@@ -1,30 +1,23 @@
 #include"json.hpp"
 
+// Para usar el mapa escribir:
+// const Run_map map_of_runs=Run_map("mi_mapa.json");
+// Y luego loopear en el objeto json_map como un iterable, por ejemplo:
+// for (auto i:map_of_runs.json_map) {
+//     if (i["threshold"]>50 && i["threshold"]!=""){cout<<i["run"]<<"  "<< i["threshold"]<<endl;}
+
 class Run_map{
 
     public:
+        nlohmann::json json_map;
+
+
         Run_map(){}
         Run_map(string map_file){
             std::ifstream i(map_file);
             i >> json_map;
         }
 
-        nlohmann::json json_map;
-        // nlohmann::json getCollectionWithProperty(std::string property){
-        //     nlohmann::json subSetPDmap;
-        //     std::copy_if (json_map.begin(), json_map.end(), std::back_inserter(subSetPDmap),
-        //         [property](const nlohmann::json e)->bool
-        //         {return e[property];} );
-        //     return subSetPDmap;
-        // }
-        nlohmann::json getCollectionWithProperty(std::string property){
-            nlohmann::json subSetPDmap;
-            std::copy_if (json_map.begin(), json_map.end(), std::back_inserter(subSetPDmap),
-                [property](const nlohmann::json e)->int
-                {return e[property];} );
-            return subSetPDmap;
-        }
-
-    private:
-
 };
+
+
